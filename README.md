@@ -126,6 +126,8 @@ Examples include positron emission tomography (PET) scans, antimatter in cosmic 
 [Isotope Engineer](https://github.com/sourceduty/Isotope_Engineer)
 <br>
 [Atomic Simulator](https://github.com/sourceduty/Atomic_Simulator)
+<br>
+[Physics Simulator](https://chatgpt.com/g/g-jdGow4iV3-physics-simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
