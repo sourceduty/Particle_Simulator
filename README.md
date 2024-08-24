@@ -128,6 +128,8 @@ Examples include positron emission tomography (PET) scans, antimatter in cosmic 
 [Atomic Simulator](https://github.com/sourceduty/Atomic_Simulator)
 <br>
 [Physics Simulator](https://chatgpt.com/g/g-jdGow4iV3-physics-simulator)
+<br>
+[Xenodynamics](https://github.com/sourceduty/Xenodynamics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
