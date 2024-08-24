@@ -23,7 +23,7 @@ To ensure clarity and comprehension, Particle Simulator avoids overly technical 
 <br>
 [Metaphysical Science](https://chatgpt.com/g/g-fY8HgnZj9-metaphysical-science)
 <br>
-[Qunatum Reactor](https://chatgpt.com/g/g-sM1IjQQju-quantum-reactor)
+[Quantum Reactor](https://chatgpt.com/g/g-sM1IjQQju-quantum-reactor)
 <br>
 [Quantum Simulator](https://chat.openai.com/g/g-pfYdV864P-quantum-simulator)
 
