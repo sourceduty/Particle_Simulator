@@ -122,6 +122,8 @@ Examples include positron emission tomography (PET) scans, antimatter in cosmic 
 [Experiment Generator](https://github.com/sourceduty/Experiment_Generator)
 <br>
 [Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
+<br>
+[Isotope Engineer](https://github.com/sourceduty/Isotope_Engineer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
