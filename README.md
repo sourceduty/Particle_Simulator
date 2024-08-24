@@ -108,6 +108,14 @@ Examples include positron emission tomography (PET) scans, antimatter in cosmic 
 [Quantum Reactor](https://chatgpt.com/g/g-sM1IjQQju-quantum-reactor)
 <br>
 [Quantum Simulator](https://chat.openai.com/g/g-pfYdV864P-quantum-simulator)
+<br>
+[Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[Experiment Generator](https://github.com/sourceduty/Experiment_Generator)
+<br>
+[Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
