@@ -13,6 +13,8 @@ To ensure clarity and comprehension, Particle Simulator avoids overly technical 
 #
 ### Simulated Particle Physics
 
+![Mobile Fusion Reactor](https://github.com/user-attachments/assets/ae0d56f1-db48-4082-8963-11bcab854dbc)
+
 Particle physics simulations play a crucial role in understanding the fundamental building blocks of the universe. By simulating the behavior and interactions of subatomic particles, scientists can explore phenomena that are otherwise impossible to observe directly. These simulations help predict outcomes of high-energy collisions, identify new particles, and understand forces that govern particle interactions. From particle accelerators that recreate the conditions of the early universe to detectors that capture fleeting signals of subatomic events, particle physics technology is at the forefront of scientific discovery. The following list explores various areas where particle physics simulations are employed, each offering a glimpse into the intricate and fascinating world of particles.
 
 #
