@@ -97,6 +97,10 @@ Examples include positron emission tomography (PET) scans, antimatter in cosmic 
 ![Particle Simulator](https://github.com/user-attachments/assets/e3cd7766-123a-4710-92c7-4757cefb73c1)
 
 #
+
+![Nuclear Fusion Reactor Machine](https://github.com/user-attachments/assets/101456d1-9d56-48b1-8315-128c16906763)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
